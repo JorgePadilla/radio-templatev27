@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bbc-world-service-player-master.iml" filepath="$PROJECT_DIR$/bbc-world-service-player-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbcworldserviceplayer/bbcworldserviceplayer.iml" filepath="$PROJECT_DIR$/bbcworldserviceplayer/bbcworldserviceplayer.iml" />
+    </modules>
+  </component>
+</project>
